@@ -1,6 +1,6 @@
 # Requirements
 
-Using only HTML, CSS and JavaScript create an address book. Use the attached design mockup for layout. Free to use any documentations available online.
+Using only HTML, CSS and JavaScript create an address book. Use the attached design mockup for design and layout. Free to use any documentations available online.
 
 * As a User, I should be able to create a new address.
 * As a User, I should be able to delete an address.
@@ -28,3 +28,7 @@ Performance enhancement consideration
 
 Use any online HTML, CSS, JavaScript coding editor. If you don’t have a preference, please use:
 https://codepen.io/pen/
+
+
+## Interactive Design Mockup
+![](address-book.gif)
